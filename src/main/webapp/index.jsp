@@ -35,6 +35,7 @@
 							<a class="button" href="Documents/Material_Devops.docx">MATERIAL</a>
 							<a class="button" href="Documents/python.pdf">PYTHON BOOK</a>
 							<a class="button" href="Documents/Interview_Questions.docx">INTERVIEW_QTNS</a>
+							<a class="button" href="https://in.linkedin.com/">JOBS</a>
 							</div>
 						</div>
 					</div>
